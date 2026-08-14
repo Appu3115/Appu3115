@@ -31,18 +31,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Appu3115&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Appu3115&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -53,15 +41,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Appu3115&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
